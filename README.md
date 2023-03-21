@@ -1,15 +1,15 @@
-<h1 align="center">I'm Jeffin Johny, at your service.</h1>
-<h3 align="center">I am a robotics enthusiast seeking exciting collaboration opportunities in the field. </h3>
+<h1 align="center">Hi 👋, I'm Jeffin Johny, at your service.</h1>
+<h3 align="center"> A robotics enthusiast seeking exciting collaboration opportunities in the field. </h3>
 
 <img align="right" alt="learn" width="400" src="https://github.com/KACHAPPILLY2021/KACHAPPILLY2021/blob/main/robot_reads.webp?raw=true" >
 
-- I am also pleased to share that I am currently available for roles in robotics software and hardware positions. My areas of expertise include computer vision, controls, planning, and mechanical design.
+- I am also pleased to share that I am currently available for roles in robotics software and hardware positions. My areas of expertise include **Computer Vision ,Controls ,Deep Learning , Planning, and Mechanical Design.**
 
 - 🔭 I’m currently working on **localization of SPOT robot and control design on drones.**
 
 - 🌱 I’m currently learning **Computer Vision and State Estimation**
 
-- 💬 Ask me about **Mechanical Engineering and Robotics**
+- 💬 Ask me about **Robotics and Mechanical Engineering**
 
 - 📫 How to reach me **jeffinjk@umd.edu**
 
@@ -31,17 +31,17 @@ Major Projects
 
 <p align="center">
   <a href="https://github.com/KACHAPPILLY2021/Computer_Vision_projects"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=KACHAPPILLY2021&repo=Computer_Vision_projects&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="cv"></a>
-  <a href="https://github.com/abhijitmahalle/sfm-learner"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=sfm-learner&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="sfm-learner"></a>
-  <a href="https://github.com/abhijitmahalle/structure-from-motion"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=structure-from-motion&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="structure-from-motion"></a>
-  <a href="https://github.com/abhijitmahalle/visual-odometry"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=visual-odometry&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="visual-odometry"></a>
-  <a href="https://github.com/abhijitmahalle/visual-sensor-fusion"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=visual-sensor-fusion&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="visual-sensor-fusion"></a>
-  <a href="https://github.com/abhijitmahalle/stereo-vision"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=stereo-vision&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="stereo-vision"></a>
-  <a href="https://github.com/abhijitmahalle/AR-tag-detection"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=AR-tag-detection&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="AR-tag-detection"></a> 
-  <a href="https://github.com/abhijitmahalle/lane-detection"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=lane-detection&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="lane-detection"></a> 
-  <a href="https://github.com/abhijitmahalle/zhang-camera-calibration"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=zhang-camera-calibration&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="zhang-camera-calibration"></a> 
-  <a href="https://github.com/abhijitmahalle/panorama-stitching"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=panorama-stitching&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="panorama-stitching"></a>
-  <a href="https://github.com/abhijitmahalle/face-swap"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=face-swap&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="face-swap"></a>
-  <a href="https://github.com/abhijitmahalle/Monocular-Human-Position-Estimator"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=Monocular-Human-Position-Estimator&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Monocular-Human-Position-Estimator"></a>
+  <a href="https://github.com/KACHAPPILLY2021/Anomaly_Detection_in_videos"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=KACHAPPILLY2021&repo=Anomaly_Detection_in_videos&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="anomaly detecion"></a>
+  <a href="https://github.com/KACHAPPILLY2021/stanford-cs231n-assignments"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=KACHAPPILLY2021&repo=stanford-cs231n-assignments&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Deep learning"></a>
+  <a href="https://github.com/KACHAPPILLY2021/ariac"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=KACHAPPILLY2021&repo=ariac&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="ariac"></a>
+  <a href="https://github.com/KACHAPPILLY2021/Stereo_vision"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=KACHAPPILLY2021&repo=Stereo_vision&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Stereo vision"></a>
+  <a href="https://github.com/KACHAPPILLY2021/667_final-_Project"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=KACHAPPILLY2021&repo=667_final-_Project&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="lqr lqg"></a>
+  <a href="https://github.com/KACHAPPILLY2021/Ankle_bot"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=KACHAPPILLY2021&repo=Ankle_bot&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Impedence control"></a> 
+  <a href="https://github.com/KACHAPPILLY2021/A_star_gazebo"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=KACHAPPILLY2021&repo=A_star_gazebo&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="A star"></a> 
+  <a href="https://github.com/KACHAPPILLY2021/Djikstra_Path_Planning"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=KACHAPPILLY2021&repo=Djikstra_Path_Planning&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Djikstra"></a> 
+  <a href="https://github.com/KACHAPPILLY2021/urban_search_and_rescue"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=KACHAPPILLY2021&repo=urban_search_and_rescue&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="urban search"></a>
+<!--   <a href="https://github.com/abhijitmahalle/face-swap"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=face-swap&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="face-swap"></a>
+  <a href="https://github.com/abhijitmahalle/Monocular-Human-Position-Estimator"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=Monocular-Human-Position-Estimator&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Monocular-Human-Position-Estimator"></a> -->
 </p>
 <!-- 
 <h2 align="center">
