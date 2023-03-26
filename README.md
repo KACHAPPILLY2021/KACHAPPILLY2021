@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Robotics and Mechanical Engineering**
 
-- 📫 How to reach me **jeffinjk@umd.edu**
+- 📫 How to reach me **jeffinjk@terpmail.umd.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
