@@ -5,7 +5,7 @@
 
 - I am also pleased to share that I am currently available for roles in robotics software and hardware positions. My areas of expertise include **Computer Vision ,Controls ,Deep Learning , Planning, and Mechanical Design.**
 
-- 🔭 I’m currently working on **localization of SPOT robot and control design on drones.**
+- 🔭 I’m currently working as a **3D Modeling researcher in Google's UX team for wearables.**
 
 - 🌱 I’m currently learning **Computer Vision and State Estimation**
 
